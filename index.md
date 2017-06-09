@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yixing10/yixing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Legneds says this song can cause the end of teh world [Wolf ](https://www.youtube.com/watch?v=gAal8xHfV0c 
 
-Awoooo 촉이 와 단번에 느껴
+ 촉이 와 단번에 느껴
 널 한입에 치즈처럼 집어넣을 테다
 향길 맡고 색깔 음미하고
 와인보다 우아하게 잡아먹을 테다
@@ -78,29 +78,9 @@ Hey 자 안 해 본 스타일로
 그래 Wolf 내가 Wolf awoo
 (Ah 사랑해요) 난 늑대고 넌 미녀
 
-### Markdown
+### Chogiwa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+i dont know what this means but its cool
 
 ### Jekyll Themes
 
