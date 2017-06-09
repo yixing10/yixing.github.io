@@ -84,10 +84,9 @@ Hey 자 안 해 본 스타일로
 
 i dont know what this means but its cool
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yixing10/yixing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### YEXIGNDE
+Yexingde also works. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+dont like my page? too bad
