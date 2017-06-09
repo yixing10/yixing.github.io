@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Legneds says this song can cause the end of the world [Wolf ](https://www.youtube.com/watch?v=gAal8xHfV0c 
+Legneds says this song can cause the end of the world [Wolf ](https://www.youtube.com/watch?v=gAal8xHfV0c)
 
  촉이 와 단번에 느껴
 널 한입에 치즈처럼 집어넣을 테다
